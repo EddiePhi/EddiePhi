@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on adding features to the "Plot of Gold" gardening app.
+- 🌱 I’m currently learning MongoDB
+- 📫 How to reach me: ephimansone@gmail.com
+- ⚡ Fun fact: I have my own IMDB page! (https://www.imdb.com/name/nm10112694/)
+
 <!--
 **EddiePhi/EddiePhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
