@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+
+### Howdy! 👋
+
+</div>
 
 - 🔭 Working on adding features to [Plot of Gold](https://eddiephi-plots-of-gold.herokuapp.com/)
 - 🌱 Currently learning MongoDB
