@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on adding features to the "Plot of Gold" gardening app.
-- 🌱 I’m currently learning MongoDB
-- 📫 How to reach me: ephimansone@gmail.com
-- ⚡ Fun fact: I have my own IMDB page! (https://www.imdb.com/name/nm10112694/)
+- 🔭 Working on adding features to [Plot of Gold](https://eddiephi-plots-of-gold.herokuapp.com/)
+- 🌱 Currently learning MongoDB
+- 📫 Send me a message on [LinkedIn!](https://www.linkedin.com/in/eddiephi/)
+- ⚡ Fun fact: I have my own [IMDB page.](https://www.imdb.com/name/nm10112694/) 😄
 
 <!--
 **EddiePhi/EddiePhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
