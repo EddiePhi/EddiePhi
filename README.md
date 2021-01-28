@@ -4,8 +4,8 @@
 
 </div>
 
-- 🔭 Working on adding features to [Plot of Gold](https://eddiephi-plots-of-gold.herokuapp.com/)
-- 🌱 Currently learning MongoDB
+- 🔭 Working on adding features to [Plot of Gold.](https://eddiephi-plots-of-gold.herokuapp.com/)
+- 🌱 Currently learning [mongoDB.](https://www.mongodb.com/)
 - 📫 Send me a message on [LinkedIn!](https://www.linkedin.com/in/eddiephi/)
 - ⚡ Fun fact: I have my own [IMDB page.](https://www.imdb.com/name/nm10112694/) 😄
 
